@@ -25,3 +25,11 @@
 
 4. Original and Complete dataset Link:-
    https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+
+### Intro to WandB
+
+1. https://www.youtube.com/watch?v=K6l62U0fAng
+
+2. https://www.youtube.com/watch?v=G7GH0SeNBMA
+
+3. https://wandb.ai/stacey
