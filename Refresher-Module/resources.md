@@ -33,3 +33,25 @@
 2. https://www.youtube.com/watch?v=G7GH0SeNBMA
 
 3. https://wandb.ai/stacey
+
+### Intro to Image Classification
+
+1. https://torchmetrics.readthedocs.io/en/stable/
+
+2. https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall?hl=en
+
+### Intro to Image Segmentation
+
+1. https://blog.paperspace.com/image-segmentation-using-segmentation_models_pytorch/#segmentationmodelspytorch
+
+2. https://d2l.ai/chapter_computer-vision/fcn.html
+
+3. https://debuggercafe.com/semantic-segmentation-using-pytorch-fcn-resnet/
+
+### Intro to Object Detection
+
+1. https://www.v7labs.com/blog/yolo-object-detection
+
+2. https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+
+3. https://curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/
