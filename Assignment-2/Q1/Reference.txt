@@ -1,0 +1,6 @@
+
+1. http://csundergrad.science.uoit.ca/courses/cv-notes/notebooks/02-camera-calibration.html
+
+2. https://github.com/spmallick/learnopencv/tree/master/CameraCalibration
+
+3. https://betterprogramming.pub/camera-calibration-on-a-chessboard-with-python-and-opencv-78bb155319cf
