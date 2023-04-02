@@ -55,3 +55,5 @@
 2. https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 
 3. https://curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/
+
+4. https://learnopencv.com/image-recognition-and-object-detection-part1/
