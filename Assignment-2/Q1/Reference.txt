@@ -4,3 +4,5 @@
 2. https://github.com/spmallick/learnopencv/tree/master/CameraCalibration
 
 3. https://betterprogramming.pub/camera-calibration-on-a-chessboard-with-python-and-opencv-78bb155319cf
+
+4. https://www.fdxlabs.com/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv/#more-298
